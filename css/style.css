@@ -107,6 +107,9 @@
 #home {
     margin-bottom: 6rem;
     background: url(../img/bg-header.png) left top no-repeat;
+    background-color:#333 !important; 
+    color: #FFFFFF !important;
+    padding-bottom: 8rem;
 }
 
 .typed-cursor {
