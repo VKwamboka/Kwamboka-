@@ -1,17 +1,17 @@
 /********** Template CSS **********/
 :root {
-    --primary: #35d8c0;
+    --primary: rgba(98, 68, 197, .9);
     --secondary: #FFC448;
     --light: #FAFAFB;
     --dark: #12141D;
 }
 .text-primary{
-    color: #0E4940 !important;
+    color: rgba(98, 68, 197, .9) !important;
 }
 .btn-primary{
-    background-color: #35d8c0 !important;
-    border-color: #35d8c0;
-    color: #0E0D0D !important;
+    background-color: rgba(98, 68, 197, .9) !important;
+    border-color: rgba(98, 68, 197, .9);
+    color: white !important;
 
 }
 .back-to-top {
