@@ -8,7 +8,12 @@
 .text-primary{
     color: #35d8c0 !important;
 }
+.btn-primary{
+    background-color: #35d8c0 !important;
+    border-color: #35d8c0;
+    color: #0E0D0D !important;
 
+}
 .back-to-top {
     position: fixed;
     display: none;
@@ -117,7 +122,7 @@
 
 .typed-cursor {
     font-size: 30px;
-    color: var(--dark);
+    color: var(--light);
 }
 
 .btn-play {
